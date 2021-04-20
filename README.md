@@ -16,3 +16,5 @@ my study schedule:
 
 - [ ] 精通Oracle Database 12c SQL & PL/SQL编程
 - [ ] Python语言及其应用
+- [ ] [This page](https://www.kuxai.com/article/2)
+- [ ] [This page](https://www.numpy.org.cn/)
