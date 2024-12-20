@@ -7,5 +7,4 @@ Living on **business intelligence**, **data analysis** and **machine learning** 
 - 💼 Senior BI Consultant (Tableau & Power BI developer) at SoftwareOne.
 - 🧐 Interested in **data analysis**. Recent focus on Apache Hadoop & Spark.
 - 📚 Currently learning _Python_, _Hive_ and _Spark_.
-- 🎓 Prepare to postgraduate exam for cs at Fudan University.
 - 💻 u can touch me by zzhichong@live.com or wechat: **Adolphins**.
