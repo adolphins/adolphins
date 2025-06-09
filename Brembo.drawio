@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="第 1 页" id="0zgfQpNA2EqtvXknwBSG">
+    <mxGraphModel dx="2852" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="47" width="853" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="76" y="74" width="436" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
+          <mxGeometry x="109" y="90" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-4" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; text-wrap-mode: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2e&quot; id=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2f&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;apac_infrastructure_prod_001&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="171" y="100.5" width="294" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-5" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; text-wrap-mode: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2e&quot; id=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2f&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;span style=&quot;color: black; font-weight: normal;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;rg-dataingestion-gcftrf-chno3-001&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="171" y="162" width="331" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="99.5" y="164" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="666" y="164" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1466" y="540" width="91" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="1480.1" y="661" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="1456" y="400" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-14" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; background-color: rgb(255, 255, 255); color: rgb(41, 40, 39);&quot; aria-describedby=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2e&quot; id=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2f&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#292827&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;adferdic&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#292827&quot;&gt;entralize&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; color: light-dark(rgb(41, 40, 39), rgb(204, 203, 202)); font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;chno3001&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="567" y="289" width="291" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1423" y="54" width="853" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="1454" y="81" width="436" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-17" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
+          <mxGeometry x="1487" y="97" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-18" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; text-wrap-mode: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2e&quot; id=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2f&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;apac_infrastructure_prod_001&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1549" y="107.5" width="294" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-19" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; text-wrap-mode: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2e&quot; id=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2f&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;span style=&quot;color: black; font-weight: normal;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;rg-dataingestion-gcftrf-chno3-001&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1549" y="169" width="331" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-20" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="1477.5" y="171" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-21" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="2044" y="171" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="LxBBHPvbyv4dzD_bRyAl-22" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; background-color: rgb(255, 255, 255); color: rgb(41, 40, 39);&quot; aria-describedby=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2e&quot; id=&quot;9c24d34c-a69d-45e0-a3f3-56d559849d2f&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#292827&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;adferdic&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#292827&quot;&gt;entralize&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; color: light-dark(rgb(41, 40, 39), rgb(204, 203, 202)); font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;chno3001&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="296" width="291" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
